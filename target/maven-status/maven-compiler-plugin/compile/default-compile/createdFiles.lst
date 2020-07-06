@@ -1,0 +1,7 @@
+sbiapplic_deve\JAXRSConfiguration.class
+sbiapplic_deve\entity\Entity.class
+sbiapplic_deve\dao\JobDao.class
+sbiapplic_deve\entity\Job.class
+sbiapplic_deve\dao\Dao.class
+sbiapplic_deve\business\JobBusiness.class
+sbiapplic_deve\resource\JobResource.class
